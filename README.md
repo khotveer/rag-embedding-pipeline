@@ -10,6 +10,9 @@ This project demonstrates an end-to-end **RAG (Retrieval-Augmented Generation)**
 
 The goal is to showcase a lightweight, modular, and practical example of how RAG works in real-world scenarios.
 
+📺 Watch the complete video series explaining this project step-by-step:
+👉 [YouTube Series Link](https://www.youtube.com/playlist?list=PLvz-QS4T63WZycSpgi6K2bsMiAUgXkJP0)
+
 ---
 
 ## 🚀 Features
